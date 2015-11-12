@@ -1,0 +1,9 @@
+{
+  "name": "JavaScriptToTypeScript",
+  "version": "1.0.0",
+  "dependencies": {
+    "bower": "^1.5.2",
+    "tsd": "*"
+  },
+  "author": "2BIT GmbH"
+}
